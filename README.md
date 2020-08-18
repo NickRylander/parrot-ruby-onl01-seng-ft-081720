@@ -1,4 +1,4 @@
-learn b# Parrot
+# Parrot
 
 ## Objectives
 
